@@ -9,7 +9,7 @@
   body {
     font-family: 'Nunito Sans', sans-serif; 
   }
-  
+   
   .card {
     width: 18rem; /* 16px *  18*/
   }
@@ -20,4 +20,8 @@
 
   .green {
     color: green;
+  }
+
+  .sombrita {
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
   }
